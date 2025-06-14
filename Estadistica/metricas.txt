@@ -1,1 +1,9 @@
+--- Métricas Agregadas ---
+Promedio Voltaje (mV): 5129.46
+Promedio Corriente (mA): 829.79
+Promedio Potencia (mW): 4252.95
+Consumo Total (mWh): 258.94
+FPS Promedio: 83.35
+Duración Total (s): 218.72
+
 
